@@ -1,0 +1,24 @@
+{
+  "Configurations": {
+    "easy": {
+      "monsterDamagePercentage": 0.25,
+      "coinMultiplier": 1,
+      "scoremultiplier":  1
+    },
+    "medium": {
+      "monsterDamagePercentage": 0.45,
+      "coinMultiplier": 1,
+      "scoremultiplier":  1.5
+    },
+    "hard": {
+      "monsterDamagePercentage": 0.65,
+      "coinMultiplier": 1,
+      "scoremultiplier": 2
+    },
+    "impossible": {
+      "monsterDamagePercentage": 1,
+      "coinMultiplier": 1,
+      "scoremultiplier": 3
+    }
+  }
+}

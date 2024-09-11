@@ -1,0 +1,444 @@
+{
+  "weapons": [
+    {
+      "name": "M4 Carbine",
+      "maxDamage": 20
+    },
+    {
+      "name": "AK-47",
+      "maxDamage": 20
+    },
+    {
+      "name": "Glock 19",
+      "maxDamage": 14
+    },
+    {
+      "name": "M1911",
+      "maxDamage": 13
+    },
+    {
+      "name": "MP5",
+      "maxDamage": 16
+    },
+    {
+      "name": "FN SCAR-H",
+      "maxDamage": 20
+    },
+    {
+      "name": "Desert Eagle",
+      "maxDamage": 18
+    },
+    {
+      "name": "Remington 870",
+      "maxDamage": 20
+    },
+    {
+      "name": "Benelli M4",
+      "maxDamage": 19
+    },
+    {
+      "name": "Mossberg 500",
+      "maxDamage": 18
+    },
+    {
+      "name": "Longsword",
+      "maxDamage": 15
+    },
+    {
+      "name": "Warhammer",
+      "maxDamage": 17
+    },
+    {
+      "name": "Spear",
+      "maxDamage": 13
+    },
+    {
+      "name": "Club",
+      "maxDamage": 8
+    },
+    {
+      "name": "Katana",
+      "maxDamage": 14
+    },
+    {
+      "name": "Battle Axe",
+      "maxDamage": 16
+    },
+    {
+      "name": "Claymore",
+      "maxDamage": 17
+    },
+    {
+      "name": "Halberd",
+      "maxDamage": 16
+    },
+    {
+      "name": "Shortsword",
+      "maxDamage": 12
+    },
+    {
+      "name": "Mace",
+      "maxDamage": 14
+    },
+    {
+      "name": "Flail",
+      "maxDamage": 14
+    },
+    {
+      "name": "Dagger",
+      "maxDamage": 8
+    },
+    {
+      "name": "Quarterstaff",
+      "maxDamage": 10
+    },
+    {
+      "name": "Morning Star",
+      "maxDamage": 15
+    },
+    {
+      "name": "Scimitar",
+      "maxDamage": 13
+    },
+    {
+      "name": "Greatsword",
+      "maxDamage": 17
+    },
+    {
+      "name": "Broadsword",
+      "maxDamage": 15
+    },
+    {
+      "name": "Bastard Sword",
+      "maxDamage": 14
+    },
+    {
+      "name": "Rapier",
+      "maxDamage": 11
+    },
+    {
+      "name": "Pike",
+      "maxDamage": 12
+    },
+    {
+      "name": "Poleaxe",
+      "maxDamage": 16
+    },
+    {
+      "name": "War Pick",
+      "maxDamage": 14
+    },
+    {
+      "name": "Falchion",
+      "maxDamage": 12
+    },
+    {
+      "name": "Hatchet",
+      "maxDamage": 10
+    },
+    {
+      "name": "Tomahawk",
+      "maxDamage": 11
+    },
+    {
+      "name": "Throwing Knife",
+      "maxDamage": 7
+    },
+    {
+      "name": "Bola",
+      "maxDamage": 6
+    },
+    {
+      "name": "Boomerang",
+      "maxDamage": 7
+    },
+    {
+      "name": "Javelin",
+      "maxDamage": 12
+    },
+    {
+      "name": "Bow",
+      "maxDamage": 13
+    },
+    {
+      "name": "Crossbow",
+      "maxDamage": 14
+    },
+    {
+      "name": "Slingshot",
+      "maxDamage": 6
+    },
+    {
+      "name": "Blowgun",
+      "maxDamage": 5
+    },
+    {
+      "name": "Trident",
+      "maxDamage": 13
+    },
+    {
+      "name": "Harpoon",
+      "maxDamage": 12
+    },
+    {
+      "name": "Whip",
+      "maxDamage": 8
+    },
+    {
+      "name": "Sling",
+      "maxDamage": 6
+    },
+    {
+      "name": "Baton",
+      "maxDamage": 8
+    },
+    {
+      "name": "Lance",
+      "maxDamage": 14
+    },
+    {
+      "name": "War Scythe",
+      "maxDamage": 15
+    },
+    {
+      "name": "Spiked Shield",
+      "maxDamage": 10
+    },
+    {
+      "name": "Tetsubo",
+      "maxDamage": 17
+    },
+    {
+      "name": "Maul",
+      "maxDamage": 18
+    },
+    {
+      "name": "Kanabo",
+      "maxDamage": 17
+    },
+    {
+      "name": "Sai",
+      "maxDamage": 9
+    },
+    {
+      "name": "Naginata",
+      "maxDamage": 14
+    },
+    {
+      "name": "Tonfa",
+      "maxDamage": 7
+    },
+    {
+      "name": "Kusarigama",
+      "maxDamage": 12
+    },
+    {
+      "name": "Bo Staff",
+      "maxDamage": 10
+    },
+    {
+      "name": "Kama",
+      "maxDamage": 11
+    },
+    {
+      "name": "Tanto",
+      "maxDamage": 8
+    },
+    {
+      "name": "Wakizashi",
+      "maxDamage": 10
+    },
+    {
+      "name": "Nunchaku",
+      "maxDamage": 9
+    },
+    {
+      "name": "Shuriken",
+      "maxDamage": 6
+    },
+    {
+      "name": "Throwing Star",
+      "maxDamage": 6
+    },
+    {
+      "name": "Bowie Knife",
+      "maxDamage": 10
+    },
+    {
+      "name": "Kukri",
+      "maxDamage": 12
+    },
+    {
+      "name": "Hand Axe",
+      "maxDamage": 10
+    },
+    {
+      "name": "Cleaver",
+      "maxDamage": 9
+    },
+    {
+      "name": "Machete",
+      "maxDamage": 11
+    },
+    {
+      "name": "Stone Axe",
+      "maxDamage": 9
+    },
+    {
+      "name": "Bone Club",
+      "maxDamage": 8
+    },
+    {
+      "name": "Primitive Spear",
+      "maxDamage": 10
+    },
+    {
+      "name": "Stone Knife",
+      "maxDamage": 7
+    },
+    {
+      "name": "Obsidian Blade",
+      "maxDamage": 9
+    },
+    {
+      "name": "Stone Hammer",
+      "maxDamage": 9
+    },
+    {
+      "name": "Stone Arrow",
+      "maxDamage": 10
+    },
+    {
+      "name": "Wooden Spear",
+      "maxDamage": 9
+    },
+    {
+      "name": "Stone Mace",
+      "maxDamage": 9
+    },
+    {
+      "name": "Iron Sword",
+      "maxDamage": 13
+    },
+    {
+      "name": "Bronze Sword",
+      "maxDamage": 12
+    },
+    {
+      "name": "Iron Dagger",
+      "maxDamage": 7
+    },
+    {
+      "name": "Bronze Dagger",
+      "maxDamage": 6
+    },
+    {
+      "name": "Iron Mace",
+      "maxDamage": 13
+    },
+    {
+      "name": "Bronze Mace",
+      "maxDamage": 12
+    },
+    {
+      "name": "Iron Spear",
+      "maxDamage": 14
+    },
+    {
+      "name": "Bronze Spear",
+      "maxDamage": 12
+    },
+    {
+      "name": "Iron Halberd",
+      "maxDamage": 15
+    },
+    {
+      "name": "Bronze Halberd",
+      "maxDamage": 13
+    },
+    {
+      "name": "Sling",
+      "maxDamage": 6
+    },
+    {
+      "name": "Boomerang",
+      "maxDamage": 7
+    },
+    {
+      "name": "Throwing Rock",
+      "maxDamage": 5
+    },
+    {
+      "name": "Fire Hardened Spear",
+      "maxDamage": 9
+    },
+    {
+      "name": "Stone Arrow",
+      "maxDamage": 9
+    },
+    {
+      "name": "Obsidian Knife",
+      "maxDamage": 8
+    },
+    {
+      "name": "Bone Dagger",
+      "maxDamage": 6
+    },
+    {
+      "name": "Wooden Club",
+      "maxDamage": 7
+    },
+    {
+      "name": "Stone Club",
+      "maxDamage": 9
+    },
+    {
+      "name": "Wooden Shield",
+      "maxDamage": 7
+    },
+    {
+      "name": "Leather Whip",
+      "maxDamage": 7
+    },
+    {
+      "name": "Iron Axe",
+      "maxDamage": 13
+    },
+    {
+      "name": "Bronze Axe",
+      "maxDamage": 12
+    },
+    {
+      "name": "Iron Longsword",
+      "maxDamage": 14
+    },
+    {
+      "name": "Bronze Longsword",
+      "maxDamage": 12
+    },
+    {
+      "name": "Steel Sword",
+      "maxDamage": 15
+    },
+    {
+      "name": "Wooden Bow",
+      "maxDamage": 11
+    },
+    {
+      "name": "Compound Bow",
+      "maxDamage": 14
+    },
+    {
+      "name": "Recurve Bow",
+      "maxDamage": 13
+    },
+    {
+      "name": "Crossbow",
+      "maxDamage": 14
+    },
+    {
+      "name": "Iron Crossbow",
+      "maxDamage": 15
+    }
+  ]
+}
