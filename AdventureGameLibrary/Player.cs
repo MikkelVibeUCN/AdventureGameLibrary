@@ -9,7 +9,7 @@ namespace AdventureGameLibrary
 {
     public class Player : Character
     {
-        private const string PlayerNamesFilePath = "C:\\Users\\mikvc\\source\\repos\\AdventureGameLibrary\\AdventureGameLibrary\\JSON\\PlayerNames.json";
+        private static string PlayerNamesFilePath => Path.Combine(AppDomain.CurrentDomain.BaseDirectory.Replace("GameConsole\\bin\\Debug\\net8.0", "AdventureGameLibrary"), "JSON", "PlayerNames.json"); 
         private static Random random = new Random();
         public enum CharacterTypes
         {

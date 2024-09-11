@@ -9,7 +9,7 @@ namespace AdventureGameLibrary
 {
     public class Config
     {
-        private const string ConfigFilePath = "C:\\Users\\mikvc\\source\\repos\\AdventureGameLibrary\\AdventureGameLibrary\\JSON\\Config.json";
+        private static string ConfigFilePath => Path.Combine(AppDomain.CurrentDomain.BaseDirectory.Replace("GameConsole\\bin\\Debug\\net8.0", "AdventureGameLibrary"), "JSON", "Config.json");
         public float monsterDamagePercentage { get; set; }
         public int coinMultiplier { get; set; }
         public float scoreMultiplier { get; set; }
@@ -26,7 +26,7 @@ namespace AdventureGameLibrary
         public static ConfigData ConvertJsonToConfigData()
         {
             string json = File.ReadAllText(ConfigFilePath);
-           
+
             return JsonConvert.DeserializeObject<ConfigData>(json);
         }
     }

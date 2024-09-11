@@ -11,7 +11,7 @@ namespace AdventureGameLibrary
     {
         private static Random Random = new Random();
         private const int MinDamage = 1;
-        private const string WeeaponNamesFilePath = "C:\\Users\\mikvc\\source\\repos\\AdventureGameLibrary\\AdventureGameLibrary\\JSON\\Weapons.json";
+        private static string WeeaponNamesFilePath => Path.Combine(AppDomain.CurrentDomain.BaseDirectory.Replace("GameConsole\\bin\\Debug\\net8.0", "AdventureGameLibrary"), "JSON", "Weapons.json"); 
         public string Name { get; }
         public int MaxDamage { get; }
         public Weapon(string Name, int MaxDamage)

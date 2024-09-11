@@ -9,7 +9,7 @@ namespace AdventureGameLibrary
     {
         public event EventHandler MonsterDeath;
         private static Random random = new Random();
-        private const string MonsterNamesFilePath = "C:\\Users\\mikvc\\source\\repos\\AdventureGameLibrary\\AdventureGameLibrary\\JSON\\MonsterNames.json";
+        private static string MonsterNamesFilePath => Path.Combine(AppDomain.CurrentDomain.BaseDirectory.Replace("GameConsole\\bin\\Debug\\net8.0", "AdventureGameLibrary"), "JSON", "MonsterNames.json");
         public enum MonsterTypes
         {
             Orc,
